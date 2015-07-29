@@ -1,5 +1,5 @@
 var expect = require("chai").expect
-var EventCapture = require("../public/eventCapture")
+var EventCapture = require("../dist/eventCapture.min")
 
 describe("EventCapture", function(){
 

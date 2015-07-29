@@ -1,5 +1,5 @@
 var expect = require("chai").expect
-var DirectoryStructure = require("../public/directoryStructure")
+var DirectoryStructure = require("../dist/directoryStructure.min")
 
 describe("DirectoryStructure", function(){
 
